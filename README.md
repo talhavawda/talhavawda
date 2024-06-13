@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 
-| ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talhavawda&layout=compact&theme=github_dark&langs_count=10&exclude_repo=innounp) | ![stats](https://github-readme-stats.vercel.app/api?username=talhavawda&include_all_commits=true&show_icons=true&theme=github_dark&count_private=true) |
+| ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talhavawda&layout=compact&theme=github_dark&langs_count=10&hide=pascal) | ![stats](https://github-readme-stats.vercel.app/api?username=talhavawda&include_all_commits=true&show_icons=true&theme=github_dark&count_private=true) |
 | --- | --- |
-
 
 <!--
 **talhavawda/talhavawda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
